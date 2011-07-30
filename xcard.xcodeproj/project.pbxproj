@@ -7,159 +7,158 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D101871D13E4267000ED8F1E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D101871C13E4267000ED8F1E /* UIKit.framework */; };
-		D101871F13E4267000ED8F1E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D101871E13E4267000ED8F1E /* Foundation.framework */; };
-		D101872113E4267000ED8F1E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D101872013E4267000ED8F1E /* CoreGraphics.framework */; };
-		D101872313E4267000ED8F1E /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D101872213E4267000ED8F1E /* CoreData.framework */; };
-		D101872913E4267000ED8F1E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D101872713E4267000ED8F1E /* InfoPlist.strings */; };
-		D101872C13E4267000ED8F1E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D101872B13E4267000ED8F1E /* main.m */; };
-		D101872F13E4267000ED8F1E /* xcardAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D101872E13E4267000ED8F1E /* xcardAppDelegate.m */; };
-		D101873213E4267000ED8F1E /* xcard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D101873013E4267000ED8F1E /* xcard.xcdatamodeld */; };
-		D101873513E4267000ED8F1E /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = D101873313E4267000ED8F1E /* MainWindow.xib */; };
-		D101873813E4267000ED8F1E /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D101873713E4267000ED8F1E /* RootViewController.m */; };
-		D101873B13E4267000ED8F1E /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D101873913E4267000ED8F1E /* RootViewController.xib */; };
-		D101874213E4267000ED8F1E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D101871C13E4267000ED8F1E /* UIKit.framework */; };
-		D101874313E4267000ED8F1E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D101871E13E4267000ED8F1E /* Foundation.framework */; };
-		D101874413E4267000ED8F1E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D101872013E4267000ED8F1E /* CoreGraphics.framework */; };
-		D101874513E4267000ED8F1E /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D101872213E4267000ED8F1E /* CoreData.framework */; };
-		D101874D13E4267000ED8F1E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D101874B13E4267000ED8F1E /* InfoPlist.strings */; };
-		D101875013E4267000ED8F1E /* xcardTests.h in Resources */ = {isa = PBXBuildFile; fileRef = D101874F13E4267000ED8F1E /* xcardTests.h */; };
-		D101875213E4267000ED8F1E /* xcardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D101875113E4267000ED8F1E /* xcardTests.m */; };
+		D1592FDA13E427710050A28B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D1592FD913E427710050A28B /* UIKit.framework */; };
+		D1592FDC13E427710050A28B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D1592FDB13E427710050A28B /* Foundation.framework */; };
+		D1592FDE13E427710050A28B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D1592FDD13E427710050A28B /* CoreGraphics.framework */; };
+		D1592FE413E427710050A28B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D1592FE213E427710050A28B /* InfoPlist.strings */; };
+		D1592FE713E427710050A28B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D1592FE613E427710050A28B /* main.m */; };
+		D1592FEA13E427710050A28B /* xcardAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D1592FE913E427710050A28B /* xcardAppDelegate.m */; };
+		D1592FED13E427710050A28B /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = D1592FEB13E427710050A28B /* MainWindow.xib */; };
+		D1592FF013E427710050A28B /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D1592FEF13E427710050A28B /* FirstViewController.m */; };
+		D1592FF313E427710050A28B /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D1592FF213E427710050A28B /* SecondViewController.m */; };
+		D1592FF613E427710050A28B /* FirstView.xib in Resources */ = {isa = PBXBuildFile; fileRef = D1592FF413E427710050A28B /* FirstView.xib */; };
+		D1592FF913E427710050A28B /* SecondView.xib in Resources */ = {isa = PBXBuildFile; fileRef = D1592FF713E427710050A28B /* SecondView.xib */; };
+		D159300013E427710050A28B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D1592FD913E427710050A28B /* UIKit.framework */; };
+		D159300113E427710050A28B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D1592FDB13E427710050A28B /* Foundation.framework */; };
+		D159300213E427710050A28B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D1592FDD13E427710050A28B /* CoreGraphics.framework */; };
+		D159300A13E427710050A28B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D159300813E427710050A28B /* InfoPlist.strings */; };
+		D159300D13E427710050A28B /* xcardTests.h in Resources */ = {isa = PBXBuildFile; fileRef = D159300C13E427710050A28B /* xcardTests.h */; };
+		D159300F13E427710050A28B /* xcardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D159300E13E427710050A28B /* xcardTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		D101874613E4267000ED8F1E /* PBXContainerItemProxy */ = {
+		D159300313E427710050A28B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = D101870F13E4267000ED8F1E /* Project object */;
+			containerPortal = D1592FCC13E427710050A28B /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = D101871713E4267000ED8F1E;
+			remoteGlobalIDString = D1592FD413E427710050A28B;
 			remoteInfo = xcard;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D101871813E4267000ED8F1E /* xcard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = xcard.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D101871C13E4267000ED8F1E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		D101871E13E4267000ED8F1E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		D101872013E4267000ED8F1E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		D101872213E4267000ED8F1E /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
-		D101872613E4267000ED8F1E /* xcard-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "xcard-Info.plist"; sourceTree = "<group>"; };
-		D101872813E4267000ED8F1E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		D101872A13E4267000ED8F1E /* xcard-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "xcard-Prefix.pch"; sourceTree = "<group>"; };
-		D101872B13E4267000ED8F1E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D101872D13E4267000ED8F1E /* xcardAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = xcardAppDelegate.h; sourceTree = "<group>"; };
-		D101872E13E4267000ED8F1E /* xcardAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = xcardAppDelegate.m; sourceTree = "<group>"; };
-		D101873113E4267000ED8F1E /* xcard.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = xcard.xcdatamodel; sourceTree = "<group>"; };
-		D101873413E4267000ED8F1E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		D101873613E4267000ED8F1E /* RootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
-		D101873713E4267000ED8F1E /* RootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
-		D101873A13E4267000ED8F1E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/RootViewController.xib; sourceTree = "<group>"; };
-		D101874113E4267000ED8F1E /* xcardTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = xcardTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
-		D101874A13E4267000ED8F1E /* xcardTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "xcardTests-Info.plist"; sourceTree = "<group>"; };
-		D101874C13E4267000ED8F1E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		D101874E13E4267000ED8F1E /* xcardTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "xcardTests-Prefix.pch"; sourceTree = "<group>"; };
-		D101874F13E4267000ED8F1E /* xcardTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = xcardTests.h; sourceTree = "<group>"; };
-		D101875113E4267000ED8F1E /* xcardTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = xcardTests.m; sourceTree = "<group>"; };
+		D1592FD513E427710050A28B /* xcard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = xcard.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D1592FD913E427710050A28B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		D1592FDB13E427710050A28B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		D1592FDD13E427710050A28B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		D1592FE113E427710050A28B /* xcard-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "xcard-Info.plist"; sourceTree = "<group>"; };
+		D1592FE313E427710050A28B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		D1592FE513E427710050A28B /* xcard-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "xcard-Prefix.pch"; sourceTree = "<group>"; };
+		D1592FE613E427710050A28B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D1592FE813E427710050A28B /* xcardAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = xcardAppDelegate.h; sourceTree = "<group>"; };
+		D1592FE913E427710050A28B /* xcardAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = xcardAppDelegate.m; sourceTree = "<group>"; };
+		D1592FEC13E427710050A28B /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		D1592FEE13E427710050A28B /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		D1592FEF13E427710050A28B /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		D1592FF113E427710050A28B /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		D1592FF213E427710050A28B /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		D1592FF513E427710050A28B /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/FirstView.xib; sourceTree = "<group>"; };
+		D1592FF813E427710050A28B /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SecondView.xib; sourceTree = "<group>"; };
+		D1592FFF13E427710050A28B /* xcardTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = xcardTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D159300713E427710050A28B /* xcardTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "xcardTests-Info.plist"; sourceTree = "<group>"; };
+		D159300913E427710050A28B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		D159300B13E427710050A28B /* xcardTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "xcardTests-Prefix.pch"; sourceTree = "<group>"; };
+		D159300C13E427710050A28B /* xcardTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = xcardTests.h; sourceTree = "<group>"; };
+		D159300E13E427710050A28B /* xcardTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = xcardTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D101871513E4267000ED8F1E /* Frameworks */ = {
+		D1592FD213E427710050A28B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D101871D13E4267000ED8F1E /* UIKit.framework in Frameworks */,
-				D101871F13E4267000ED8F1E /* Foundation.framework in Frameworks */,
-				D101872113E4267000ED8F1E /* CoreGraphics.framework in Frameworks */,
-				D101872313E4267000ED8F1E /* CoreData.framework in Frameworks */,
+				D1592FDA13E427710050A28B /* UIKit.framework in Frameworks */,
+				D1592FDC13E427710050A28B /* Foundation.framework in Frameworks */,
+				D1592FDE13E427710050A28B /* CoreGraphics.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D101873D13E4267000ED8F1E /* Frameworks */ = {
+		D1592FFB13E427710050A28B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D101874213E4267000ED8F1E /* UIKit.framework in Frameworks */,
-				D101874313E4267000ED8F1E /* Foundation.framework in Frameworks */,
-				D101874413E4267000ED8F1E /* CoreGraphics.framework in Frameworks */,
-				D101874513E4267000ED8F1E /* CoreData.framework in Frameworks */,
+				D159300013E427710050A28B /* UIKit.framework in Frameworks */,
+				D159300113E427710050A28B /* Foundation.framework in Frameworks */,
+				D159300213E427710050A28B /* CoreGraphics.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D101870D13E4267000ED8F1E = {
+		D1592FCA13E427710050A28B = {
 			isa = PBXGroup;
 			children = (
-				D101872413E4267000ED8F1E /* xcard */,
-				D101874813E4267000ED8F1E /* xcardTests */,
-				D101871B13E4267000ED8F1E /* Frameworks */,
-				D101871913E4267000ED8F1E /* Products */,
+				D1592FDF13E427710050A28B /* xcard */,
+				D159300513E427710050A28B /* xcardTests */,
+				D1592FD813E427710050A28B /* Frameworks */,
+				D1592FD613E427710050A28B /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D101871913E4267000ED8F1E /* Products */ = {
+		D1592FD613E427710050A28B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D101871813E4267000ED8F1E /* xcard.app */,
-				D101874113E4267000ED8F1E /* xcardTests.octest */,
+				D1592FD513E427710050A28B /* xcard.app */,
+				D1592FFF13E427710050A28B /* xcardTests.octest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D101871B13E4267000ED8F1E /* Frameworks */ = {
+		D1592FD813E427710050A28B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				D101871C13E4267000ED8F1E /* UIKit.framework */,
-				D101871E13E4267000ED8F1E /* Foundation.framework */,
-				D101872013E4267000ED8F1E /* CoreGraphics.framework */,
-				D101872213E4267000ED8F1E /* CoreData.framework */,
+				D1592FD913E427710050A28B /* UIKit.framework */,
+				D1592FDB13E427710050A28B /* Foundation.framework */,
+				D1592FDD13E427710050A28B /* CoreGraphics.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		D101872413E4267000ED8F1E /* xcard */ = {
+		D1592FDF13E427710050A28B /* xcard */ = {
 			isa = PBXGroup;
 			children = (
-				D101872D13E4267000ED8F1E /* xcardAppDelegate.h */,
-				D101872E13E4267000ED8F1E /* xcardAppDelegate.m */,
-				D101873313E4267000ED8F1E /* MainWindow.xib */,
-				D101873613E4267000ED8F1E /* RootViewController.h */,
-				D101873713E4267000ED8F1E /* RootViewController.m */,
-				D101873913E4267000ED8F1E /* RootViewController.xib */,
-				D101873013E4267000ED8F1E /* xcard.xcdatamodeld */,
-				D101872513E4267000ED8F1E /* Supporting Files */,
+				D1592FE813E427710050A28B /* xcardAppDelegate.h */,
+				D1592FE913E427710050A28B /* xcardAppDelegate.m */,
+				D1592FEB13E427710050A28B /* MainWindow.xib */,
+				D1592FEE13E427710050A28B /* FirstViewController.h */,
+				D1592FEF13E427710050A28B /* FirstViewController.m */,
+				D1592FF113E427710050A28B /* SecondViewController.h */,
+				D1592FF213E427710050A28B /* SecondViewController.m */,
+				D1592FF413E427710050A28B /* FirstView.xib */,
+				D1592FF713E427710050A28B /* SecondView.xib */,
+				D1592FE013E427710050A28B /* Supporting Files */,
 			);
 			path = xcard;
 			sourceTree = "<group>";
 		};
-		D101872513E4267000ED8F1E /* Supporting Files */ = {
+		D1592FE013E427710050A28B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				D101872613E4267000ED8F1E /* xcard-Info.plist */,
-				D101872713E4267000ED8F1E /* InfoPlist.strings */,
-				D101872A13E4267000ED8F1E /* xcard-Prefix.pch */,
-				D101872B13E4267000ED8F1E /* main.m */,
+				D1592FE113E427710050A28B /* xcard-Info.plist */,
+				D1592FE213E427710050A28B /* InfoPlist.strings */,
+				D1592FE513E427710050A28B /* xcard-Prefix.pch */,
+				D1592FE613E427710050A28B /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		D101874813E4267000ED8F1E /* xcardTests */ = {
+		D159300513E427710050A28B /* xcardTests */ = {
 			isa = PBXGroup;
 			children = (
-				D101874F13E4267000ED8F1E /* xcardTests.h */,
-				D101875113E4267000ED8F1E /* xcardTests.m */,
-				D101874913E4267000ED8F1E /* Supporting Files */,
+				D159300C13E427710050A28B /* xcardTests.h */,
+				D159300E13E427710050A28B /* xcardTests.m */,
+				D159300613E427710050A28B /* Supporting Files */,
 			);
 			path = xcardTests;
 			sourceTree = "<group>";
 		};
-		D101874913E4267000ED8F1E /* Supporting Files */ = {
+		D159300613E427710050A28B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				D101874A13E4267000ED8F1E /* xcardTests-Info.plist */,
-				D101874B13E4267000ED8F1E /* InfoPlist.strings */,
-				D101874E13E4267000ED8F1E /* xcardTests-Prefix.pch */,
+				D159300713E427710050A28B /* xcardTests-Info.plist */,
+				D159300813E427710050A28B /* InfoPlist.strings */,
+				D159300B13E427710050A28B /* xcardTests-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -167,13 +166,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D101871713E4267000ED8F1E /* xcard */ = {
+		D1592FD413E427710050A28B /* xcard */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D101875513E4267000ED8F1E /* Build configuration list for PBXNativeTarget "xcard" */;
+			buildConfigurationList = D159301213E427710050A28B /* Build configuration list for PBXNativeTarget "xcard" */;
 			buildPhases = (
-				D101871413E4267000ED8F1E /* Sources */,
-				D101871513E4267000ED8F1E /* Frameworks */,
-				D101871613E4267000ED8F1E /* Resources */,
+				D1592FD113E427710050A28B /* Sources */,
+				D1592FD213E427710050A28B /* Frameworks */,
+				D1592FD313E427710050A28B /* Resources */,
 			);
 			buildRules = (
 			);
@@ -181,78 +180,79 @@
 			);
 			name = xcard;
 			productName = xcard;
-			productReference = D101871813E4267000ED8F1E /* xcard.app */;
+			productReference = D1592FD513E427710050A28B /* xcard.app */;
 			productType = "com.apple.product-type.application";
 		};
-		D101874013E4267000ED8F1E /* xcardTests */ = {
+		D1592FFE13E427710050A28B /* xcardTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D101875813E4267000ED8F1E /* Build configuration list for PBXNativeTarget "xcardTests" */;
+			buildConfigurationList = D159301513E427710050A28B /* Build configuration list for PBXNativeTarget "xcardTests" */;
 			buildPhases = (
-				D101873C13E4267000ED8F1E /* Sources */,
-				D101873D13E4267000ED8F1E /* Frameworks */,
-				D101873E13E4267000ED8F1E /* Resources */,
-				D101873F13E4267000ED8F1E /* ShellScript */,
+				D1592FFA13E427710050A28B /* Sources */,
+				D1592FFB13E427710050A28B /* Frameworks */,
+				D1592FFC13E427710050A28B /* Resources */,
+				D1592FFD13E427710050A28B /* ShellScript */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				D101874713E4267000ED8F1E /* PBXTargetDependency */,
+				D159300413E427710050A28B /* PBXTargetDependency */,
 			);
 			name = xcardTests;
 			productName = xcardTests;
-			productReference = D101874113E4267000ED8F1E /* xcardTests.octest */;
+			productReference = D1592FFF13E427710050A28B /* xcardTests.octest */;
 			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D101870F13E4267000ED8F1E /* Project object */ = {
+		D1592FCC13E427710050A28B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				ORGANIZATIONNAME = SPK;
 			};
-			buildConfigurationList = D101871213E4267000ED8F1E /* Build configuration list for PBXProject "xcard" */;
+			buildConfigurationList = D1592FCF13E427710050A28B /* Build configuration list for PBXProject "xcard" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = D101870D13E4267000ED8F1E;
-			productRefGroup = D101871913E4267000ED8F1E /* Products */;
+			mainGroup = D1592FCA13E427710050A28B;
+			productRefGroup = D1592FD613E427710050A28B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D101871713E4267000ED8F1E /* xcard */,
-				D101874013E4267000ED8F1E /* xcardTests */,
+				D1592FD413E427710050A28B /* xcard */,
+				D1592FFE13E427710050A28B /* xcardTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D101871613E4267000ED8F1E /* Resources */ = {
+		D1592FD313E427710050A28B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D101872913E4267000ED8F1E /* InfoPlist.strings in Resources */,
-				D101873513E4267000ED8F1E /* MainWindow.xib in Resources */,
-				D101873B13E4267000ED8F1E /* RootViewController.xib in Resources */,
+				D1592FE413E427710050A28B /* InfoPlist.strings in Resources */,
+				D1592FED13E427710050A28B /* MainWindow.xib in Resources */,
+				D1592FF613E427710050A28B /* FirstView.xib in Resources */,
+				D1592FF913E427710050A28B /* SecondView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D101873E13E4267000ED8F1E /* Resources */ = {
+		D1592FFC13E427710050A28B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D101874D13E4267000ED8F1E /* InfoPlist.strings in Resources */,
-				D101875013E4267000ED8F1E /* xcardTests.h in Resources */,
+				D159300A13E427710050A28B /* InfoPlist.strings in Resources */,
+				D159300D13E427710050A28B /* xcardTests.h in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		D101873F13E4267000ED8F1E /* ShellScript */ = {
+		D1592FFD13E427710050A28B /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -268,64 +268,72 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D101871413E4267000ED8F1E /* Sources */ = {
+		D1592FD113E427710050A28B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D101872C13E4267000ED8F1E /* main.m in Sources */,
-				D101872F13E4267000ED8F1E /* xcardAppDelegate.m in Sources */,
-				D101873213E4267000ED8F1E /* xcard.xcdatamodeld in Sources */,
-				D101873813E4267000ED8F1E /* RootViewController.m in Sources */,
+				D1592FE713E427710050A28B /* main.m in Sources */,
+				D1592FEA13E427710050A28B /* xcardAppDelegate.m in Sources */,
+				D1592FF013E427710050A28B /* FirstViewController.m in Sources */,
+				D1592FF313E427710050A28B /* SecondViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D101873C13E4267000ED8F1E /* Sources */ = {
+		D1592FFA13E427710050A28B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D101875213E4267000ED8F1E /* xcardTests.m in Sources */,
+				D159300F13E427710050A28B /* xcardTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		D101874713E4267000ED8F1E /* PBXTargetDependency */ = {
+		D159300413E427710050A28B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D101871713E4267000ED8F1E /* xcard */;
-			targetProxy = D101874613E4267000ED8F1E /* PBXContainerItemProxy */;
+			target = D1592FD413E427710050A28B /* xcard */;
+			targetProxy = D159300313E427710050A28B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		D101872713E4267000ED8F1E /* InfoPlist.strings */ = {
+		D1592FE213E427710050A28B /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D101872813E4267000ED8F1E /* en */,
+				D1592FE313E427710050A28B /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
-		D101873313E4267000ED8F1E /* MainWindow.xib */ = {
+		D1592FEB13E427710050A28B /* MainWindow.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D101873413E4267000ED8F1E /* en */,
+				D1592FEC13E427710050A28B /* en */,
 			);
 			name = MainWindow.xib;
 			sourceTree = "<group>";
 		};
-		D101873913E4267000ED8F1E /* RootViewController.xib */ = {
+		D1592FF413E427710050A28B /* FirstView.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D101873A13E4267000ED8F1E /* en */,
+				D1592FF513E427710050A28B /* en */,
 			);
-			name = RootViewController.xib;
+			name = FirstView.xib;
 			sourceTree = "<group>";
 		};
-		D101874B13E4267000ED8F1E /* InfoPlist.strings */ = {
+		D1592FF713E427710050A28B /* SecondView.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D101874C13E4267000ED8F1E /* en */,
+				D1592FF813E427710050A28B /* en */,
+			);
+			name = SecondView.xib;
+			sourceTree = "<group>";
+		};
+		D159300813E427710050A28B /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D159300913E427710050A28B /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -333,7 +341,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		D101875313E4267000ED8F1E /* Debug */ = {
+		D159301013E427710050A28B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
@@ -350,7 +358,7 @@
 			};
 			name = Debug;
 		};
-		D101875413E4267000ED8F1E /* Release */ = {
+		D159301113E427710050A28B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
@@ -365,7 +373,7 @@
 			};
 			name = Release;
 		};
-		D101875613E4267000ED8F1E /* Debug */ = {
+		D159301313E427710050A28B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -379,7 +387,7 @@
 			};
 			name = Debug;
 		};
-		D101875713E4267000ED8F1E /* Release */ = {
+		D159301413E427710050A28B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -393,7 +401,7 @@
 			};
 			name = Release;
 		};
-		D101875913E4267000ED8F1E /* Debug */ = {
+		D159301613E427710050A28B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -415,7 +423,7 @@
 			};
 			name = Debug;
 		};
-		D101875A13E4267000ED8F1E /* Release */ = {
+		D159301713E427710050A28B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -440,45 +448,32 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D101871213E4267000ED8F1E /* Build configuration list for PBXProject "xcard" */ = {
+		D1592FCF13E427710050A28B /* Build configuration list for PBXProject "xcard" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D101875313E4267000ED8F1E /* Debug */,
-				D101875413E4267000ED8F1E /* Release */,
+				D159301013E427710050A28B /* Debug */,
+				D159301113E427710050A28B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D101875513E4267000ED8F1E /* Build configuration list for PBXNativeTarget "xcard" */ = {
+		D159301213E427710050A28B /* Build configuration list for PBXNativeTarget "xcard" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D101875613E4267000ED8F1E /* Debug */,
-				D101875713E4267000ED8F1E /* Release */,
+				D159301313E427710050A28B /* Debug */,
+				D159301413E427710050A28B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		D101875813E4267000ED8F1E /* Build configuration list for PBXNativeTarget "xcardTests" */ = {
+		D159301513E427710050A28B /* Build configuration list for PBXNativeTarget "xcardTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D101875913E4267000ED8F1E /* Debug */,
-				D101875A13E4267000ED8F1E /* Release */,
+				D159301613E427710050A28B /* Debug */,
+				D159301713E427710050A28B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCVersionGroup section */
-		D101873013E4267000ED8F1E /* xcard.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				D101873113E4267000ED8F1E /* xcard.xcdatamodel */,
-			);
-			currentVersion = D101873113E4267000ED8F1E /* xcard.xcdatamodel */;
-			path = xcard.xcdatamodeld;
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
-		};
-/* End XCVersionGroup section */
 	};
-	rootObject = D101870F13E4267000ED8F1E /* Project object */;
+	rootObject = D1592FCC13E427710050A28B /* Project object */;
 }

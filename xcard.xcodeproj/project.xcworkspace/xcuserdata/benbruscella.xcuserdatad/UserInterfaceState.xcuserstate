@@ -36,7 +36,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>14574A44-310C-408F-9325-2B355712038A</string>
+		<string>0DFBE929-308C-4325-B29B-0D94C050C360</string>
 		<string>IDEWorkspaceDocument</string>
 		<dict>
 			<key>$class</key>
@@ -87,11 +87,11 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>14</integer>
+					<integer>9</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>8</integer>
+					<integer>14</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -102,8 +102,8 @@
 		<string>IDEWorkspaceWindowControllerUniqueIdentifier</string>
 		<string>IDEOrderedWorkspaceTabControllers</string>
 		<string>IDEWindowToolbarIsVisible</string>
-		<string>IDEWorkspaceTabController_CC732084-25BE-438E-A822-72789260EDCD</string>
 		<string>IDEActiveWorkspaceTabController</string>
+		<string>IDEWorkspaceTabController_BEDA0106-D2C0-4E8C-8531-9EF08DA58F51</string>
 		<string>IDEWindowFrame</string>
 		<dict>
 			<key>$class</key>
@@ -115,7 +115,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>8</integer>
+					<integer>9</integer>
 				</dict>
 			</array>
 		</dict>
@@ -1738,7 +1738,7 @@
 			</dict>
 		</dict>
 		<string>file://localhost/Users/benbruscella/Projects/Github/xcard/xcard/xcard.xcodeproj/</string>
-		<real>333719158.14365101</real>
+		<real>333719412.42380202</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1949,7 +1949,7 @@
 			<key>NS.objects</key>
 			<array/>
 		</dict>
-		<string>{{142, 56}, {1400, 952}}</string>
+		<string>{{140, 62}, {1400, 952}}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2011,19 +2011,19 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>217</integer>
+					<integer>216</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>222</integer>
+					<integer>221</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>224</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>225</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>226</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -2082,7 +2082,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>202</integer>
+					<integer>201</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2100,17 +2100,8 @@
 			<key>NS.relative</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>201</integer>
+				<integer>88</integer>
 			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>89</integer>
-			</dict>
-			<key>NS.string</key>
-			<string>file://localhost/Users/benbruscella/Projects/Github/xcard/xcard/xcard.xcodeproj/</string>
 		</dict>
 		<dict>
 			<key>$class</key>
@@ -2145,11 +2136,15 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+					<integer>202</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
 					<integer>203</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>204</integer>
+					<integer>209</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -2157,11 +2152,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>211</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>216</integer>
+					<integer>215</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2183,7 +2174,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>205</integer>
+					<integer>204</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2197,11 +2188,11 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>206</integer>
+					<integer>205</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>208</integer>
+					<integer>207</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2230,7 +2221,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>207</integer>
+					<integer>206</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2260,7 +2251,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>209</integer>
+					<integer>208</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2276,7 +2267,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>212</integer>
+					<integer>211</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2294,15 +2285,15 @@
 			<key>selection</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>214</integer>
+				<integer>213</integer>
 			</dict>
 			<key>timestamp</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>213</integer>
+				<integer>212</integer>
 			</dict>
 		</dict>
-		<real>333719158.14292902</real>
+		<real>333719412.42283398</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2324,7 +2315,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>215</integer>
+					<integer>214</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -2354,22 +2345,22 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>218</integer>
+					<integer>217</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>219</integer>
+					<integer>218</integer>
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>220</integer>
+					<integer>219</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>221</integer>
+					<integer>220</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2387,14 +2378,14 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>223</integer>
+					<integer>222</integer>
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>224</integer>
+					<integer>223</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2424,7 +2415,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>227</integer>
+					<integer>226</integer>
 				</dict>
 			</array>
 		</dict>
