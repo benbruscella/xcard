@@ -10,7 +10,7 @@ build/
 
 **/*.perspectivev*
 
-*.xcuserdata
+*.xcuserdata*
 
 *.mode1v3
 *.mode1v3

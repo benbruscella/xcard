@@ -24,6 +24,11 @@
 		D159300A13E427710050A28B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D159300813E427710050A28B /* InfoPlist.strings */; };
 		D159300D13E427710050A28B /* xcardTests.h in Resources */ = {isa = PBXBuildFile; fileRef = D159300C13E427710050A28B /* xcardTests.h */; };
 		D159300F13E427710050A28B /* xcardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D159300E13E427710050A28B /* xcardTests.m */; };
+		D1A5577D13E428EA00348A4E /* CardView.xib in Resources */ = {isa = PBXBuildFile; fileRef = D1A5577C13E428EA00348A4E /* CardView.xib */; };
+		D1A5578013E4290000348A4E /* CardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D1A5577F13E4290000348A4E /* CardViewController.m */; };
+		D1A5578B13E42E3D00348A4E /* pop.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D1A5578913E42E3D00348A4E /* pop.jpg */; };
+		D1A5578C13E42E3D00348A4E /* white_circle.png in Resources */ = {isa = PBXBuildFile; fileRef = D1A5578A13E42E3D00348A4E /* white_circle.png */; };
+		D1A5578E13E439D400348A4E /* pink_circle.png in Resources */ = {isa = PBXBuildFile; fileRef = D1A5578D13E439D400348A4E /* pink_circle.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +65,12 @@
 		D159300B13E427710050A28B /* xcardTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "xcardTests-Prefix.pch"; sourceTree = "<group>"; };
 		D159300C13E427710050A28B /* xcardTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = xcardTests.h; sourceTree = "<group>"; };
 		D159300E13E427710050A28B /* xcardTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = xcardTests.m; sourceTree = "<group>"; };
+		D1A5577C13E428EA00348A4E /* CardView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CardView.xib; sourceTree = "<group>"; };
+		D1A5577E13E4290000348A4E /* CardViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CardViewController.h; sourceTree = "<group>"; };
+		D1A5577F13E4290000348A4E /* CardViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CardViewController.m; sourceTree = "<group>"; };
+		D1A5578913E42E3D00348A4E /* pop.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pop.jpg; sourceTree = "<group>"; };
+		D1A5578A13E42E3D00348A4E /* white_circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = white_circle.png; sourceTree = "<group>"; };
+		D1A5578D13E439D400348A4E /* pink_circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pink_circle.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +100,7 @@
 		D1592FCA13E427710050A28B = {
 			isa = PBXGroup;
 			children = (
+				D1A5578813E42E3D00348A4E /* Resources */,
 				D1592FDF13E427710050A28B /* xcard */,
 				D159300513E427710050A28B /* xcardTests */,
 				D1592FD813E427710050A28B /* Frameworks */,
@@ -121,6 +133,9 @@
 				D1592FE813E427710050A28B /* xcardAppDelegate.h */,
 				D1592FE913E427710050A28B /* xcardAppDelegate.m */,
 				D1592FEB13E427710050A28B /* MainWindow.xib */,
+				D1A5577E13E4290000348A4E /* CardViewController.h */,
+				D1A5577F13E4290000348A4E /* CardViewController.m */,
+				D1A5577C13E428EA00348A4E /* CardView.xib */,
 				D1592FEE13E427710050A28B /* FirstViewController.h */,
 				D1592FEF13E427710050A28B /* FirstViewController.m */,
 				D1592FF113E427710050A28B /* SecondViewController.h */,
@@ -161,6 +176,17 @@
 				D159300B13E427710050A28B /* xcardTests-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D1A5578813E42E3D00348A4E /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				D1A5578D13E439D400348A4E /* pink_circle.png */,
+				D1A5578913E42E3D00348A4E /* pop.jpg */,
+				D1A5578A13E42E3D00348A4E /* white_circle.png */,
+			);
+			name = Resources;
+			path = xcard/Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -237,6 +263,10 @@
 				D1592FED13E427710050A28B /* MainWindow.xib in Resources */,
 				D1592FF613E427710050A28B /* FirstView.xib in Resources */,
 				D1592FF913E427710050A28B /* SecondView.xib in Resources */,
+				D1A5577D13E428EA00348A4E /* CardView.xib in Resources */,
+				D1A5578B13E42E3D00348A4E /* pop.jpg in Resources */,
+				D1A5578C13E42E3D00348A4E /* white_circle.png in Resources */,
+				D1A5578E13E439D400348A4E /* pink_circle.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,6 +306,7 @@
 				D1592FEA13E427710050A28B /* xcardAppDelegate.m in Sources */,
 				D1592FF013E427710050A28B /* FirstViewController.m in Sources */,
 				D1592FF313E427710050A28B /* SecondViewController.m in Sources */,
+				D1A5578013E4290000348A4E /* CardViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -464,6 +495,7 @@
 				D159301413E427710050A28B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D159301513E427710050A28B /* Build configuration list for PBXNativeTarget "xcardTests" */ = {
 			isa = XCConfigurationList;
@@ -472,6 +504,7 @@
 				D159301713E427710050A28B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
